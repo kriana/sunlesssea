@@ -15,7 +15,7 @@ Mods made by others that may or may not be currently in use, but I like them! Cu
 
 Note 1: I've included all of these that are released here on Github as submodules so they should always be up to date. The others have the original download link inline.
 
-Note: Easier and Unnecessary definitely overlap in more than a few places. They probably shouldn't be used together, as one will entirely override the other. Which? Who knows?
+Note 2: Easier and Unnecessary definitely overlap in more than a few places. They probably shouldn't be used together, as one will entirely override the other. Which? Who knows?
 
 ## Original
 This folder contains mods made by me. Current list:
