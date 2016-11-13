@@ -1,0 +1,126 @@
+[{
+	"Name": "Eschatologue-class Dreadnaught",
+	"OwnerName": "Liam Welton",
+	"Description": "Zee-beasts can overwhelm any ship ever built. The Eschatologue was designed to be the exception.",
+	"Image": "Leucothea",
+	"Notes": "TRAVELLER RETURNING",
+	"Tag": "Ship",
+	"PyramidNumberIncreaseLimit": 50,
+	"QEffectPriority": 2,
+	"AssignToSlot": {
+	  "Id": 102889
+	},
+	"Visible": true,
+	"Enhancements": [
+	  {
+		"Level": 300,
+		"AssociatedQuality": {
+		  "Id": 109845
+		},
+		"Id": 4814
+	  },
+	  {
+		"Level": 600,
+		"AssociatedQuality": {
+		  "Id": 102031
+		},
+		"Id": 4815
+	  },
+	  {
+		"Level": 50,
+		"AssociatedQuality": {
+		  "Id": 106992
+		},
+		"Id": 4822
+	  },
+	  {
+		"Level": 25,
+		"AssociatedQuality": {
+		  "Id": 102896
+		},
+		"Id": 5025
+	  },
+	  {
+		"Level": 50,
+		"AssociatedQuality": {
+		  "Id": 102894
+		},
+		"Id": 5026
+	  },
+	  {
+		"Level": 25,
+		"AssociatedQuality": {
+		  "Id": 102895
+		},
+		"Id": 5027
+	  },
+	  {
+		"Level": 1200,
+		"AssociatedQuality": {
+		  "Id": 105361},
+		  "Id": 5476}],
+		
+	"DifficultyScaler": 60,
+	"AllowedOn": 1,
+	"Nature": 2,
+	"Category": 10000,
+	"QualitiesPossessedList": [
+
+	],
+	"Id": 105319
+  },
+  
+  {"Name": "Leucothea-class Steam-Yacht",
+  	"OwnerName": "Liam Welton",
+  	"Description": "A vessel for diplomats, merchants and wealthy spies.",
+  	"Image": "Eschatologue",
+  	"Notes": "TRAVELLER RETURNING",
+  	"Tag": "Ship",
+  	"PyramidNumberIncreaseLimit": 50,
+  	"QEffectPriority": 2,
+  	"AssignToSlot": {  "Id": 102889	},
+  	"Visible": true,
+  	"Enhancements": [
+  
+  	  {"Level": 50,
+  		"AssociatedQuality": { "Id": 106992},
+  		"Id": 4649 },
+  
+  	  {	"Level": 250,
+  		"AssociatedQuality": {"Id": 102031},
+  		"Id": 4803 },
+  
+  	  {	"Level": 300,
+  		"AssociatedQuality": { "Id": 109845},
+  		"Id": 4805}
+  		,
+  	  {"Level": 25,
+  		"AssociatedQuality": {"Id": 102897	},
+  		"Id": 5017 },
+  
+  	  {	"Level": 50,
+  		"AssociatedQuality": {"Id": 102896	},
+  		"Id": 5018 },
+  
+  	  {"Level": 25,
+  		"AssociatedQuality": {"Id": 102898	},
+  		"Id": 5178},
+  
+  	  {	"Level": 1000,
+  		"AssociatedQuality": {"Id": 105361},
+  		"Id": 5477},
+  
+  	  {"Level": 25,
+  		"AssociatedQuality": {"Id": 102895},
+  		"Id": 5983}
+  	],
+  
+  	"DifficultyScaler": 60,
+  	"AllowedOn": 1,
+  	"Nature": 2,
+  	"Category": 10000,
+  	"QualitiesPossessedList": [
+  	],
+  	"Id": 105320
+    }
+  ]
