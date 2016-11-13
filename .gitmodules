@@ -4,3 +4,6 @@
 [submodule "showcase/legacies"]
 	path = showcase/legacies
 	url = https://kriana@github.com/baXiaDev/XD-Sunless-Sea-Legacies-Mod.git
+[submodule "showcase/london-warehouse"]
+	path = showcase/london-warehouse
+	url = https://kriana@github.com/CodeAndLoathing/ssmod-londonwarehouse.git
