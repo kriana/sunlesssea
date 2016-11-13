@@ -7,3 +7,6 @@
 [submodule "showcase/london-warehouse"]
 	path = showcase/london-warehouse
 	url = https://kriana@github.com/CodeAndLoathing/ssmod-londonwarehouse.git
+[submodule "showcase/unnecessary-overhaul"]
+	path = showcase/unnecessary-overhaul
+	url = https://kriana@github.com/Foxman8472/Zz_UnnecessaryOverhaul.git
